@@ -7,13 +7,13 @@ export const navigation = {
     },
     {
       id: 2,
-      name: "Projects",
-      href: "/#projects",
+      name: "Poleras",
+      href: "/poleras",
     },
     {
       id: 3,
-      name: "About us",
-      href: "/#about",
+      name: "Vestidos",
+      href: "/vestidos",
     },
     {
       id: 4,
@@ -24,7 +24,8 @@ export const navigation = {
   social: [
     {
       name: "Instagram",
-      href: "https://www.instagram.com/duwebsite/",
+      
+      href: "https://www.instagram.com/joao369__/",
       icon: (props: any) => (
         <svg fill="currentColor" viewBox="0 0 24 24" {...props}>
           <path
